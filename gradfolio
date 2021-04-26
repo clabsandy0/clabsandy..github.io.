@@ -1,8 +1,9 @@
 # clabsandy.github.io.
 name: "clabsandy"
 title: "clabsandy"
-discription:"jekyll templete, gradfolio styled, for clabsandy "
-baseurl:''
+discription: "jekyll templete, gradfolio styled, for clabsandy "
+baseurl: ''
 google_analytics: 'G-4J48J53JCF'
+mailchimp-list: ''
 include: ["_page"]
-permalink: /:clabsandy/
+permalink: /:titel/
